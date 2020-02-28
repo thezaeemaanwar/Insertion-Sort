@@ -7,4 +7,4 @@ The driver.cpp file contains 2 functions:
       
   > InsertionSort
       > Insertion Sort function which takes array and its size as input and sorts the array.
-      > Considering 
+      > Considering a
